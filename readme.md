@@ -1,4 +1,5 @@
-Vision Transformer for Image Classification
+**Vision Transformer for Image Classification**
+
 This project focuses on implementing and exploring the application of Vision Transformers (ViTs) for image classification tasks. Vision Transformers have emerged as a promising approach in computer vision, leveraging the transformer architecture and attention mechanism to achieve competitive results in image classification.
 
 Overview
